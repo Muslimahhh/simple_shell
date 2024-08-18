@@ -1,0 +1,1 @@
+This is my simple shell project from ALX regarding the c language
